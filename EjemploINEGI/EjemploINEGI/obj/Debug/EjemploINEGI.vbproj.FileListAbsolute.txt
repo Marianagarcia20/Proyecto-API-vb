@@ -1,0 +1,15 @@
+C:\Users\mg520\source\repos\EjemploINEGI\EjemploINEGI\obj\Debug\EjemploINEGI.vbprojAssemblyReference.cache
+C:\Users\mg520\source\repos\EjemploINEGI\EjemploINEGI\obj\Debug\EjemploINEGI.Form1.resources
+C:\Users\mg520\source\repos\EjemploINEGI\EjemploINEGI\obj\Debug\EjemploINEGI.Resources.resources
+C:\Users\mg520\source\repos\EjemploINEGI\EjemploINEGI\obj\Debug\EjemploINEGI.vbproj.GenerateResource.cache
+C:\Users\mg520\source\repos\EjemploINEGI\EjemploINEGI\obj\Debug\EjemploINEGI.vbproj.CoreCompileInputs.cache
+C:\Users\mg520\source\repos\EjemploINEGI\EjemploINEGI\bin\Debug\EjemploINEGI.exe.config
+C:\Users\mg520\source\repos\EjemploINEGI\EjemploINEGI\bin\Debug\EjemploINEGI.exe
+C:\Users\mg520\source\repos\EjemploINEGI\EjemploINEGI\bin\Debug\EjemploINEGI.pdb
+C:\Users\mg520\source\repos\EjemploINEGI\EjemploINEGI\bin\Debug\EjemploINEGI.xml
+C:\Users\mg520\source\repos\EjemploINEGI\EjemploINEGI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mg520\source\repos\EjemploINEGI\EjemploINEGI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mg520\source\repos\EjemploINEGI\EjemploINEGI\obj\Debug\EjemploINEGI.vbproj.CopyComplete
+C:\Users\mg520\source\repos\EjemploINEGI\EjemploINEGI\obj\Debug\EjemploINEGI.exe
+C:\Users\mg520\source\repos\EjemploINEGI\EjemploINEGI\obj\Debug\EjemploINEGI.xml
+C:\Users\mg520\source\repos\EjemploINEGI\EjemploINEGI\obj\Debug\EjemploINEGI.pdb
